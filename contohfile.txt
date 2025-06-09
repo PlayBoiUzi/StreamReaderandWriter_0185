@@ -1,0 +1,1 @@
+cd "c:\Users\Enzo\Documents\KULIAH UMY\Semester 2 Tugas\Pratikum Pemrograman Dasar Semester 2\Pertemuan 13\" ; if ($?) { g++ ioFileWithCostumename.cpp -o ioFileWithCostumename } ; if ($?) { .\ioFileWithCostumename }
